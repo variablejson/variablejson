@@ -4,10 +4,14 @@
 
 VariableJson is a JSON parser that adds support for variables.
 
-Supported languages
- - [C#](https://github.com/variablejson/variablejson-csharp)
- - [JavaScript](https://github.com/variablejson/variablejson-js)
- - [Python](https://github.com/variablejson/variablejson-python)
+### Supported languages
+| Language | in-JSON Variables | Environment Variables|
+| :---: | :---: | :---: |
+| [C#](https://github.com/variablejson/variablejson-csharp) | :white_check_mark: | :white_check_mark: |
+| [JavaScript](https://github.com/variablejson/variablejson-js) | :white_check_mark: | :x: |
+| [Python](https://github.com/variablejson/variablejson-python) | :white_check_mark: | :x: |
+
+> **Note**: Features are based off of the latest package version for that language. If you see a feature not available in a language, please know that we fully plan to support it in the future.
 
 ### Examples
 
