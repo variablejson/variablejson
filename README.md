@@ -11,7 +11,8 @@ VariableJson is a JSON parser that adds support for variables.
 | [JavaScript](https://github.com/variablejson/variablejson-js) | :white_check_mark: | :x: |
 | [Python](https://github.com/variablejson/variablejson-python) | :white_check_mark: | :x: |
 
-> **Note**: Features are based off of the latest package version for that language. If you see a feature not available in a language, please know that we fully plan to support it in the future.
+> **Note** 
+> Features are based off of the latest package version for that language. If you see a feature not available in a language, please know that we fully plan to support it in the future.
 
 ### Examples
 
