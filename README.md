@@ -164,7 +164,7 @@ which produces
 
 ### Usage
 
-Check the `examples` folders for information on how to use the library in your project for a given language.
+Click on your language of choice from the table at the top of this README to see how to use VariableJson in your project. The README in the language's repository will have detailed information for that language specifically.
 
 ### VariableJsonOptions
 
